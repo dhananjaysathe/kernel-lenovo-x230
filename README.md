@@ -5,6 +5,7 @@ Highly optimised Kernels for Ubuntu and generic config for the lenovo thinkpad x
 These contain 
 Included patches:
 Config and modules optimised for hardware and most commonly used devices
+BFS enabled 1000 HZ RT PREEMPT SMP x86_64 Kernel 
 PF kernel fork (https://pf.natalenko.name/)
  mainline update
  ck patchset with BFS
