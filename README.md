@@ -2,7 +2,9 @@ kernel-lenovo-x230
 ==================
 
 * Highly optimised Kernels for Ubuntu and generic config for the lenovo thinkpad x230 
-# PF kernel fork (https://pf.natalenko.name/) 
+
+PF kernel fork (https://pf.natalenko.name/) 
+-------------------------------------------
 * mainline update 
 * ck patchset with BFS 
 * BFQ I/O scheduler 
