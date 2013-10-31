@@ -1,7 +1,7 @@
 kernel-lenovo-x230
 ==================
 
-* Highly optimised Kernels for Ubuntu and generic config for the lenovo thinkpad x230 
+Highly optimised Kernels for Ubuntu and generic config for the lenovo thinkpad x230 with the following mods 
 
 PF kernel fork (https://pf.natalenko.name/) 
 -------------------------------------------
